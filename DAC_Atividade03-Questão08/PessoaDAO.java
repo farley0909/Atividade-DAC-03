@@ -28,7 +28,7 @@ public class PessoaDAO {
 
         }
         catch(SQLException e){
-            e.printStackTrace();;
+            e.printStackTrace();
         }
 
 
